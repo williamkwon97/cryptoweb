@@ -11,3 +11,4 @@ Steps
 Screenshots:
 
 ![SS1](SS1.png "screenshot")
+![SS2](SS2.png "screenshot")
